@@ -1,0 +1,32 @@
+{
+  "name": "haki-code",
+  "displayName": "Haki Code",
+  "description": "VS Code Theme",
+  "version": "0.0.1",
+  "publisher": "jfelix",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoseFelix007/haki-code-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "code theme",
+    "jfelix"
+  ],
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Haki Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Haki Code-color-theme.json"
+      }
+    ]
+  }
+}
