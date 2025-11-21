@@ -2,8 +2,10 @@
   "name": "haki-code",
   "displayName": "Haki Code",
   "description": "VS Code Theme",
-  "version": "0.0.2",
+  "version": "0.1.0",
+  "author": "J. Felix",
   "publisher": "jfelix",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/JoseFelix007/haki-code-theme"
